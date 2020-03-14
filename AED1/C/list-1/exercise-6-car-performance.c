@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main(){
+    float initialKm, finalKm, liters;
+
+    printf("Insira a quilometragem inicial do carro (Ex: 1000): ");
+    scanf("%f", &initialKm);
+    fflush(stdin);
+
+    printf("Insira a quilometragem final do carro (Ex: 2000): ");
+    scanf("%f", &finalKm);
+    fflush(stdin);
+
+    printf("Insira a quantidade de combustível gasto no percurso (Ex: 100): ");
+    scanf("%f", &liters);
+    fflush(stdin);
+
+    printf("\nA performance do carro é %0.2f km/litro", (finalKm - initialKm) / liters);
+
+    return 0;
+}
