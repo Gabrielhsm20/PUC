@@ -4,7 +4,7 @@
 int main(){
     float number;
 
-    printf("Digite um número maior que 0: ");
+    printf("Digite um número maior que 0 (Ex: 10): ");
     scanf("%f", &number);
     fflush(stdin);
 
