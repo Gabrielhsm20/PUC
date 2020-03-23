@@ -1,11 +1,9 @@
 #include <stdio.h>
 
 int main(){
-    float average = 0;
+    float average = 0, score;
 
     for(int i = 0; i < 10; i++){
-        float score;
-
         printf("Insira a %iª nota (Ex: 10): ", i+1);
         scanf("%f", &score);
         fflush(stdin);
