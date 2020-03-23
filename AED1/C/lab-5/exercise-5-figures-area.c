@@ -5,7 +5,7 @@
 int main(){
     int num;
 
-    printf("Escolha a figura que você deseja calcular a area: ");
+    printf("Escolha a figura que você deseja calcular a área: ");
     printf("\n1 - Quadrado");
     printf("\n2 - Retângulo");
     printf("\n3 - Triângulo");
