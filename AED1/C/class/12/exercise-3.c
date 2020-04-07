@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void reverseNumbers(int * num1, int * num2, int * num3, int * num4, int * num5){
+void reverseNumbers(int *num1, int *num2, int *num3, int *num4, int *num5){
     int auxNum1 = *num1, auxNum2 = *num2;
 
     *num1 = *num5;

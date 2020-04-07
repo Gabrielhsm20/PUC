@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void multiplyTwo(int * num1, int * num2, int * num3, int * num4, int * num5){
+void multiplyTwo(int *num1, int *num2, int *num3, int *num4, int *num5){
     *num1 *= 2;
     *num2 *= 2;
     *num3 *= 2;

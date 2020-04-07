@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void smallestNumber(int * num1, int * num2, int * num3, int * num4, int * num5, int * smaller, int * address){
+void smallestNumber(int *num1, int *num2, int *num3, int *num4, int *num5, int *smaller, int *address){
     if(*num1 <= *num2 && *num1 <= *num3 && *num1 <= *num4 && *num1 <= *num5){
         *address = &num1;
         *smaller = *num1;
