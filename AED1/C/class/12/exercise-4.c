@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int * numberAddress(int *num1, int *num2, int *num3, int *num4, int *num5){
+int *numberAddress(int *num1, int *num2, int *num3, int *num4, int *num5){
     if(*num1 <= *num2 && *num1 <= *num3 && *num1 <= *num4 && *num1 <= *num5){
         return num1;
     }else if(*num2 <= *num1 && *num2 <= *num3 && *num2 <= *num4 && *num2 <= *num5){
