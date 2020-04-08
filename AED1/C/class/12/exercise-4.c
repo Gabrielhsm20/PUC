@@ -21,6 +21,15 @@ int main() {
     scanf("%i %i %i %i %i", &num1, &num2, &num3, &num4, &num5);
     fflush(stdin);
 
+    printf("Endereco      |       Valor");
+    printf("\n%p      |       %i", &num1, num1);
+    printf("\n%p      |       %i", &num2, num2);
+    printf("\n%p      |       %i", &num3, num3);
+    printf("\n%p      |       %i", &num4, num4);
+    printf("\n%p      |       %i", &num5, num5);
+
+    printf("\n\n");
+
     int *address = numberAddress(&num1, &num2, &num3, &num4, &num5);
 
     printf("O menor numero e %i e seu endereco e %p", *address, address);
