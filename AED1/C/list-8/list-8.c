@@ -36,7 +36,7 @@ int main() {
     scanf("%i", &exercise);
     fflush(stdin);
 
-    if(exercise >= 0 || exercise <= 14) {
+    if(exercise >= 0 && exercise <= 14) {
         if(exercise == 0) {
             
             printf("Até logo!");
