@@ -1,7 +1,6 @@
 /*
 
-O algoritmo a seguir imprime quatro número após a sua execução. Qual é o valor da
-soma dos dois primeiros números impressos? 13
+O algoritmo a seguir imprime quatro número após a sua execução. Qual é o valor da soma dos dois primeiros números impressos? 13
 
 */
 

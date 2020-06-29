@@ -1,3 +1,10 @@
+/*
+
+Construa um algoritmo que gere 100 números aleatórios entre 1 e 100, mostre a soma e a
+média dos números gerados.
+
+*/
+
 #include <stdio.h>
 #include <conio.h>
 

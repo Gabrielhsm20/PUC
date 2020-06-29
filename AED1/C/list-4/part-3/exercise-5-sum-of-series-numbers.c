@@ -1,3 +1,11 @@
+/*
+
+Faça um algoritmo que calcule e escreva a soma dos 20 primeiros números da série:
+
+100/0! + 99/1! + 98/2! + 97/3! + ... + 1/99!
+
+*/
+
 #include <stdio.h>
 
 // Função para encontrar o fatorial do número passado via parâmetro

@@ -1,3 +1,18 @@
+/*
+
+Nesta atividade você deverá criar um sistema em C para cadastro de alunos. O sistema deverá oferecer as opções:
+a) Cadastrar aluno (utilize um vetor de N alunos)
+b) Lista alunos
+c) Calcular a renda média e nota média dos alunos
+d) Mostrar o aluno maior nota
+e) Pesquisar alunos por matrícula
+As opções seguintes deverão manipular arquivos texto.
+f) Backup dos dados - Usuário informa o nome de um arquivo e programa salva os dados
+dos alunos em arquivo texto (um registro por linha).
+g) Restauração de dados – Usuário informa o nome de um arquivo e programa carregar dados salvo no arquivo na memória primária (um vetor de Alunos).
+
+*/
+
 #include <stdio.h>
 
 struct Students {

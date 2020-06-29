@@ -1,3 +1,44 @@
+/*
+
+1. Construa um algoritmo que copie o conteúdo da matriz preenchida para uma segunda de mesmo tamanho, e imprima o seu conteúdo.
+
+2. Construa um algoritmo que cria uma segunda matriz de números reais de tamanho N x M e  solicita ao usuário o preenchimento dessa segunda matriz. Verifique se o conteúdo dessa segunda matriz é igual ao conteúdo da primeira.
+
+3. Construa um algoritmo que solicite ao usuário que digite um número real k, calcule o mostre quantas vezes o número k ocorre dentro da matriz.
+
+4. Construa um algoritmo que mostre o número da primeira linha da matriz em que está localizado o maior valor nela presente.
+
+5. Construa um algoritmo que calcule e exiba quantos números são maiores que o valor médio da matriz.
+
+6. Construa um algoritmo que calcule e mostre o maior valor acima da diagonal principal de uma matriz de reais (não considerar a própria diagonal). Trate as situações que impeçam a execução dessa verificação.
+
+7. Construa um algoritmo que calcule e retorne a diferença entre o maior valor presente acima da diagonal principal e o maior valor presente abaixo da diagonal principal de uma matriz de reais. Trate as situações que impeçam a execução dessa verificação.
+
+8. Construa um método que calcule e retorne a soma dos valores de uma determinada coluna de da matriz. O usuário deverá informar a coluna desejada.
+
+9. Construa um algoritmo que determina e imprime a transposta da matriz.
+
+Parte II – Registros e Matrizes
+10. O problema das 8 Rainha consiste em colocar 8 Rainhas em tabuleiro de xadrez de forma que nenhuma rainha ataque a outra.
+    (https://2.bp.blogspot.com/-adYZZMF68Ck/T8uJu9SeCUI/AAAAAAAAA5c/6tbEs3JEHSM/s1600/oitorainhas.png)
+
+    Faça um algoritmo que verifique se as posições de rainhas informadas pelo usuário são válidas.
+    O seu algoritmo deverá ter as seguintes opções:
+    
+    a) Digitar a posição de uma rainha (linha e colunas – valores entre 1 e 8). Os dados deverão ser guardados em um vetor do tipo Jogada (tamanho máximo de 8 Jogadas).
+    struct Jogada {
+        int ordem; // Cada jogada deve ter um id incremental
+        int x;
+        int y;
+    }
+
+    b) Imprimir sequencialmente o conteúdo do vetor (para cada jogada: ordem, x, y).
+    c) Marcar em uma matriz (8x8) as posições armazenadas no vetor na opção anterior (a).
+    d) Verificar na matriz se as posições são válidas.
+    e) Imprimir a matriz
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>

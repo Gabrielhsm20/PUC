@@ -1,3 +1,21 @@
+/*
+
+Sabe-se que um cliente pode obter descontos ao comparar parafusos em uma loja. O preço de
+cada parafuso é R$ 0,50, e os seguintes descontos podem ser aplicados:
+
+Quantidades de Parafusos            Desconto
+Entre 101 e 200                     10%
+Entre 201 e 300                     20%
+Entre 301 e 400                     30%
+Acima de 401                        40% (desconto máximo)
+
+Construa um algoritmo que recebe o número de parafusos desejados pelo cliente e
+informados pelo usuário e determina o valor total da compra. Caso a quantidade seja menor
+ou igual a zero, o sistema deverá mostrar uma mensagem informando que a quantidade é
+inválida.
+
+*/
+
 #include <stdio.h>
 
 int main(){

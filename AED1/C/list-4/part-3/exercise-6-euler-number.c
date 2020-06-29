@@ -1,3 +1,13 @@
+/*
+
+Faça um algoritmo que leia um número X do teclado e calcular o valor de ex através da seguinte série:
+
+e^x = x^0 + x^1/1! + x^2/2! + x^3/3!...
+
+Deverão ser adicionados apenas os termos maiores ou iguais a 10-4
+
+*/
+
 #include <stdio.h>
 #include <math.h>
 

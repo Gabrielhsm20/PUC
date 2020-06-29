@@ -1,3 +1,9 @@
+/*
+
+Calcular e escrever a idade média de uma turma de n alunos, sendo n um valor lido.
+
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 

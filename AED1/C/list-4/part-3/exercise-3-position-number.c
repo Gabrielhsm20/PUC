@@ -1,3 +1,12 @@
+/*
+
+Construa um algoritmo para calcular e exibir o k-ésimo dígito da direita para a esquerda de
+um número n. Suponha que k é menor ou igual ao número de dígitos de n. Exemplo: O
+usuário informa o número 1998 e o k desejado (k=3). Nesse exemplo, o algoritmo deverá
+mostrar que o 3° dígito de 1998 é 9.
+
+*/
+
 #include <stdio.h>
 
 int main(){

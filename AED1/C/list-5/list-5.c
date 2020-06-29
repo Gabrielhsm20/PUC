@@ -1,3 +1,30 @@
+/*
+
+1. Crie uma função que recebe três números e retorne o elemento do meio.
+
+2. Crie uma função que recebe 10 números como parâmetro de entrada, calcule e retorne e a média dos números.
+
+3. Crie uma função que recebe dois valores boleanos (A e B) e retorne o valor verdade da operação XOR em relação aos dois valores.
+
+4. Crie um procedimento que calcule e escreva a soma dos 20 primeiros números da série:
+    100/0! + 99/1! + 98/2! + 97/3! + ... + 1/99!
+
+5. Crie uma função que calcule e retorne o seguinte somatório:
+    S = 1/225 + 2/196 + 4/169 + 8/144 + ... + 16384/1
+
+6. Crie uma função que receba um número real x e calcule a série a seguir:
+
+    sin(x) = x - x^3/3! + x^5/5! - x^7/7! ...
+
+    Cuidado: a série possui infinitos elementos. Limite o número de termos até alcançar uma precisão de 4 casas decimais.
+
+7. Crie uma função que recebe dois inteiros (min e max) e retonar um valor aleatório entre min e max. Max deve ser maior que min, caso contrário sua função deverá retornar -1.
+
+8. Crie um procedimento que recebe valor monetário de até 2 casas decimais e escreva por extenso o valor. Exemplo: se o usuário digital R$ 5,68, então a seu procedimento deverá imprimir: “cinco reais, sessenta e oito centavos”.
+    Seu procedimento deverá trabalhar com números positivos até a casa dos bilhões
+
+*/
+
 #include <stdio.h>
 #include <math.h>
 #include <conio.h>

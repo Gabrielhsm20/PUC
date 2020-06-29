@@ -1,3 +1,10 @@
+/*
+
+Construa um algoritmo que leia dois pontos cartesianos (x1, y1, x2, y2) e calcule e mostre a
+distância entre esses dois pontos.
+
+*/
+
 #include <stdio.h>
 #include <math.h>
 

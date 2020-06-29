@@ -1,3 +1,15 @@
+/*
+
+Faça um algoritmo que a tabulada relativa ao número 9 e seus multiplicando de 0 a 100.
+Exemplo:
+9 x 0 = 0
+9 x 1 = 9
+9 x 2 = 18
+...
+9 x 100 = 900
+
+*/
+
 #include <stdio.h>
 
 int main(){

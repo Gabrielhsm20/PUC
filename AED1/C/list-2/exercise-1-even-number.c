@@ -1,3 +1,10 @@
+/*
+
+Identificar se um inteiro lido é par ou não. Se o número for menor ou igual a zero, informe ao
+usuário que o número deve ser maior que zero.
+
+*/
+
 #include <stdio.h>
 
 // Função para solicitar e retornar um número maior que zero

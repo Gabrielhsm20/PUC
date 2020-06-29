@@ -1,3 +1,11 @@
+/*
+
+Crie um programa que leia um arquivo TXT contendo em cada linha os valores de coordenadas X Y Z e retorne a soma das distâncias sequenciais entre os pontos. O nome do arquivo deverá ser informado pelo usuário.
+
+Dica: crie struct e funções/procedimentos para organizar o seu código.
+
+*/
+
 #include <stdio.h>
 #define N 4
 

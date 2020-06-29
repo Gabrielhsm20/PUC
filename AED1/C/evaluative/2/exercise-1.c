@@ -5,6 +5,7 @@ v2[] = {0, -1, 3, 9, 6, 4}
 Elementos comuns: 3 e 6. A função deverá retornar 9 (soma dos 2 elementos).
 Crie também uma função main que permita a chamada da função criada após o usuário digitar valores dos vetores. 
 */
+
 #include <stdio.h>
 
 /*

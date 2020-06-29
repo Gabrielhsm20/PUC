@@ -1,3 +1,10 @@
+/*
+
+Crie um algoritmo que leia um número real (float) e mostre sua parte inteira e sua parte
+fracionária.
+
+*/
+
 #include <stdio.h>
 
 int main(){

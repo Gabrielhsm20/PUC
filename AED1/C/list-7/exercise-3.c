@@ -1,12 +1,6 @@
 /*
 
-Um comerciante deseja fazer o levantamento do lucro das mercadorias que ele
-comercializa. Para isto, mandou digitar uma linha para cada mercadoria com o código,
-preço de compra e preço de venda das mesmas. Faça um algoritmo que determine e
-escreva quantas mercadorias proporcionam lucro < 10%, 10% <= lucro <= 20% e lucro >
-20%. Determine também e escreva o valor total de compra e de venda de todas as
-mercadorias, assim como o lucro total. As entradas de dados devem ser finalizadas após
-o usuário digitar um código negativo de produto.
+Um comerciante deseja fazer o levantamento do lucro das mercadorias que ele comercializa. Para isto, mandou digitar uma linha para cada mercadoria com o código, preço de compra e preço de venda das mesmas. Faça um algoritmo que determine e escreva quantas mercadorias proporcionam lucro < 10%, 10% <= lucro <= 20% e lucro > 20%. Determine também e escreva o valor total de compra e de venda de todas as mercadorias, assim como o lucro total. As entradas de dados devem ser finalizadas após o usuário digitar um código negativo de produto.
 
 */
 

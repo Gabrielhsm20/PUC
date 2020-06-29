@@ -1,3 +1,10 @@
+/*
+
+Faça um algoritmo que imprime o reverso de um número inteiro lido pelo teclado. Exemplo:
+O reverso de 1234 é 4321.
+
+*/
+
 #include <stdio.h>
 
 int main(){

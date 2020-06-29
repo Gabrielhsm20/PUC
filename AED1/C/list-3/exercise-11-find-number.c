@@ -1,3 +1,13 @@
+/*
+
+Faça um algoritmo que encontre o menor número inteiro e positivo N que satisfaça,
+simultaneamente, às relações:
+• Resto da divisão de N por 3 = 2
+• Resto da divisão de N por 5 = 3
+• Resto da divisão de N por 7 = 4
+
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 

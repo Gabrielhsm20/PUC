@@ -1,12 +1,10 @@
 /*
 
-Crie um procedimento que recebe um número inteiro k maior que 1. O seu
-procedimento deverá calcular e "retornar por referência" um valor de n (maior que 1) que
-atenda a seguinte condição:
+Crie um procedimento que recebe um número inteiro k maior que 1. O seu procedimento deverá calcular e "retornar por referência" um valor de n (maior que 1) que atenda a seguinte condição:
 
 Por exemplo, para o caso de k = 4, então um valor de n=5 satisfaz a condição.
-Construa também uma função main que solicita ao usuário o valor de k, faz a chamada do
-procedimento passando os parâmetros, e depois mostra o valor de n encontrado.
+
+Construa também uma função main que solicita ao usuário o valor de k, faz a chamada do procedimento passando os parâmetros, e depois mostra o valor de n encontrado.
 
 */
 

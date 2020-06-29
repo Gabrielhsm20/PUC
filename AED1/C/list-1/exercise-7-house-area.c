@@ -1,3 +1,11 @@
+/*
+
+Faça um programa que calcule a área total (m2) de uma casa com 3 cômodos. O usuário deve
+inserir a largura e comprimento de cada um dos cômodos, calcular a área individual de cada um e
+por fim exibir a área total da casa.
+
+*/
+
 #include <stdio.h>
 
 int main(){

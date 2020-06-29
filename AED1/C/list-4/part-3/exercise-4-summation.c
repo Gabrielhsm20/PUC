@@ -1,3 +1,11 @@
+/*
+
+Faça um algoritmo que calcule o seguinte somatório:
+
+S = 1/225 + 2/196 + 4/169 + 8/144 + ... + 16384/1
+
+*/
+
 #include <stdio.h>
 
 int main(){

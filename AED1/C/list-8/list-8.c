@@ -1,3 +1,41 @@
+/*
+
+Recursividade – Parte 1
+1) Escreva uma função recursiva divide(A,B) para calcular a divisão inteira de A por B utilizando apenas subtrações.
+
+2) Escreva uma função recursiva que recebe um número inteiro e retorne o número de dígitos.
+    Exemplo. N = 50 – saída deverá ser 2.
+
+3) Escreva uma função recursiva que recebe um número inteiro e retorne a soma dos seus dígitos.
+    Exemplo = N = 45. Saída deverá ser 9.
+
+4) Escreva uma função recursiva que retorne o resultado da multiplicação dos dois parâmetros utilizando apenas o operador somas.
+
+5) Escreva uma função recursiva que calcule o n-ésimo termo de uma progressão geométrica onde o primeiro termo e a razão são informados pelo usuário.
+
+Vetores – Parte 2
+6) Faça um programa que lê 10 números informados pelo usuário e armazena em um vetor.
+    Imprima os elementos em ordem reversa da leitura.
+
+7) Faça um programa que lê 10 números informados pelo usuário e armazena em um vetor.
+    Imprima os elementos do vetor cujo valor seja igual ao índice da posição.
+
+8) Faça um programa que preenche um vetor de 15 posições com números aleatórios. Use a função rand da biblitoeca <stdlib.h> preencher o vetor com números inteiros gerados aleatoriamente entre 0 e 10.
+
+9) Construa um algoritmo que gere 15 temperaturas aleatórias entre 18 e 40 C e armazene em um vetor. Imprima a maior, a menor e a temperatura média. Mostre também o número de vezes que a temperatura foi abaixo da média.
+
+10) Faça um algoritmo que preenche e imprime um vetor de tamanho 10 usando a seguinte regra: - Se a posição do vetor é múltipla de 2, deve-se armazenar 1. Caso contrário, armazene 0.
+
+11) Construa um algoritmo que leia N números entre 0 e 9 informados pelo usuário e depois armazene em cada posição i de um vetor de 10 posições o número de vez que o número i apareceu.
+
+12) Faça um algoritmo que preenche um vetor com os primeiros 100 elementos da série de Fibonacci. Após preencher o vetor, imprima seu conteúdo.
+
+13) Construa um algoritmo que preenche um vetor com o resultado da função f(x) = 3x³ + 2x² + 1x -5, onde X é o índice da posição do vetor. Após preencher vetor, imprima seu conteúdo.
+
+14) Faça um algoritmo que armazena em um vetor n números digitados pelo usuário. Posteriormente, mostre o segundo menor valor do vetor.
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

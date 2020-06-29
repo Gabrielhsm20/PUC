@@ -1,3 +1,10 @@
+/*
+
+Faça um programa que calcula o novo valor do salário de um funcionário. O usuário informa o
+salário atual (ex. 3.100,00) e o percentual do reajuste (ex. 4,2 %).
+
+*/
+
 #include <stdio.h>
 
 int main(){

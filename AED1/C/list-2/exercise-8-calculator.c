@@ -1,3 +1,10 @@
+/*
+
+Calculadora com as quatro operações aritméticas básicas. Oferecer um menu ao usuário com
+as operações. Ler os dois operandos. Calcular e escrever o resultado.
+
+*/
+
 #include <stdio.h>
 
 int main(){

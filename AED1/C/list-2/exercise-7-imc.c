@@ -1,3 +1,16 @@
+/*
+
+Construa um algoritmo que, a partir do peso e altura informados pelo usuário, calcule e
+apresente o IMC de uma pessoa e a sua classificação conforme tabela a seguir:
+- abaixo de 18,5: Abaixo do peso
+- entre 18,6 e 24,9: Peso ideal
+- entre 25,0e 29,9: Levemente acima do peso
+- entre 30,0 e 34,9: Obesidade grau I
+- entre 35,0 e 39,9: Obesidade grau II (severa)
+- acima de 40: Obesidade III (mórbida)
+
+*/
+
 #include <stdio.h>
 
 int main(){

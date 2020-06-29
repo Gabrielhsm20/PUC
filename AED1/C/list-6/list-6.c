@@ -1,3 +1,40 @@
+/*
+
+1. Crie um procedimento função que recebe três números e retorne por referência o maior e o menor.
+
+2. Crie um procedimento que recebe 3 números como parâmetro de entrada, calcule e retorne e a média dos números usando parâmetro por referência.
+
+3. Crie um procedimento que recebe dois valores boleanos (A e B) e retorne por referência o valor verdade da operação ⌐ (A ^ B).
+
+4. Declare 5 variáveis (números inteiros) na função main e faça a leitura dos valores (scanf).
+    Após isso, crie um procedimento que recebe os 5 números inteiro por referência e realize alterações de seus valores, deslocando os valores da esquerda para a direita. Exemplo:
+    
+    Dados lidos originalmente: a=5, b=9, c=1, d=6, e=19
+    Dados atualizados: a=19, b=5, c=9, d=1, e=6
+    
+    O procedimento também deverá imprimir os resultados dessas trocas conforme ilustrado a seguir:
+    
+    NOME_VARIAVEL       ENDEREÇO        VALOR ANTIGO      VALOR NOVO
+    a                   0000fff1        5                   19
+    b                   0000fff2        9                   5
+    c                   0000fff3        1                   9
+    d                   0000fff4        6                   1
+    e                   0000fff5        19                  6
+
+5. Faça um algoritmo que declare uma variável e mostre o valor, endereço e tamanho na memória para cada um dos seguintes tipos: char, int, float, double, int *, char *, int *, float *, double *.
+    Exemplo de formato de saída do seu programa:
+    O Endereço do char ___ é 0x_______ . Essa variável ocupa ___ bytes.
+    O Endereço do int ___ é 0x_______ . Essa variável ocupa ___ bytes.
+    O Endereço do float ___ é 0x_______ . Essa variável ocupa ___ bytes.
+    O Endereço do double ___ é 0x_______ . Essa variável ocupa ___ bytes.
+    
+    Dica: use a função sizeof(variável) para obter o tamanho da variável em bytes.
+
+6. Adicione comando para imprimir o valor das variáveis no código a seguir, execute e veja o que
+acontece. O que você observa? Qual sua explicação para as saídas?
+
+*/
+
 #include <stdio.h>
 #include "functions.h"
 

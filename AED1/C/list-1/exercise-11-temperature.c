@@ -1,3 +1,9 @@
+/*
+
+Construa um algoritmo que converta grau Celsius (informado pelo usuário) em Farenheit
+
+*/
+
 #include <stdio.h>
 
 int main(){

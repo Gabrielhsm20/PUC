@@ -1,3 +1,17 @@
+/*
+
+Na lista anterior, foi elaborado um programa que proveu as funcionalidades de uma
+calculadora para as quatro operações aritméticas. Elas foram oferecidas através de um menu
+e a opção do usuário foi tratada através da instrução switch. Crie uma nova versão para a
+calculadora. Nela, acrescente ao programa a possibilidade de serem realizados vários
+cálculos. Para isto, após a escrita do resultado de cada operação, o fluxo de execução deverá
+voltar à escrita do menu. Desta forma, o menu deverá ser alterado acrescentando a ele uma
+nova opção: sair do programa. Esta deverá ser a primeira opção do menu. Quando
+selecionada, a mensagem “Obrigado por usar este programa” deverá ser escrita e o
+programa finalizado. Caso contrário, tratar a operação aritmética selecionada.
+
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 

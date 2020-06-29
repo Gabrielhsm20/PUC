@@ -1,3 +1,20 @@
+/*
+
+Acrescente no programa desenvolvido anteriormente a possibilidade do usuário digitar a
+forma de pagamento. O usuário digita um código (1 a 4) e o sistema mostra a opção de
+pagamento correspondente a esse código e aplica mais um desconto ao valor final da compra,
+como segue:
+
+Código Forma de Pagamento           Desconto
+1 Dinheiro                          5%
+2 Cartão Débito                     3%
+3 Cartão Crédito                    0%
+4 Boleto                            2%
+
+Utilize a estrutura de controle de fluxo switch-case
+
+*/
+
 #include <stdio.h>
 
 int main(){

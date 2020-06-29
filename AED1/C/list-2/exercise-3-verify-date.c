@@ -1,3 +1,14 @@
+/*
+
+Construa um algoritmo onde o usuário informar uma data (dia, mês e ano) e verifica se é
+uma data válida em 2020. Exemplos:
+-30/08/2020 é uma data válida em 2019.
+-31/Fev/2005 não é uma data válido, pois não fevereiro não tem 31 dias e o ano é diferente
+de 2020.
+
+
+*/
+
 #include <stdio.h>
 
 int main(){

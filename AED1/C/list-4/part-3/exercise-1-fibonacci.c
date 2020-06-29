@@ -1,3 +1,15 @@
+/*
+
+O Matemático Italiano Leonardo de Pisa nasceu na Itália por volta de 1175 e ficou conhecido
+como Fibonacci (Filho de Bonaccio). A partir da publicação do livro Liber Abacci, (livro do
+Ábaco) em 1202, Fibonacci tornou-se famoso, principalmente devido aos inúmeros temas
+desenvolvidos nesse trabalho. Nele aparecem estudos sobre o clássico problema envolvendo
+populações de coelhos, o qual foi a base para o estabelecimento da célebre sequência (números)
+de Fibonacci, como segue:
+F = 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377 ...
+
+*/
+
 #include <stdio.h>
 
 int main(){

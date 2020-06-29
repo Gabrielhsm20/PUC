@@ -1,16 +1,10 @@
 /*
 
-Um número é primo se ele for divisível apenas por ele mesmo e por 1. O número 11 é
-primo pois é divisivel apenas por 11 e por 1. Já o número 9 não é primo, pois é divisível
-por 9, 3 e 1.
+Um número é primo se ele for divisível apenas por ele mesmo e por 1. O número 11 é primo pois é divisivel apenas por 11 e por 1. Já o número 9 não é primo, pois é divisível por 9, 3 e 1.
 
-Construa uma função que recebe um número inteiro n e retorne o maior número primo
-até n. Por exemplo: se o usuário digitar 21, a função deverá retornar 19 pois esse é maior
-número primo até n=21.
+Construa uma função que recebe um número inteiro n e retorne o maior número primo até n. Por exemplo: se o usuário digitar 21, a função deverá retornar 19 pois esse é maior número primo até n=21.
 
-Crie também uma função main que permita a chamada da função criada após o usuário
-digitar o valor de n. Após a função retornar o seu valor, mostre para o usuário se o
-número é primo ou não.
+Crie também uma função main que permita a chamada da função criada após o usuário digitar o valor de n. Após a função retornar o seu valor, mostre para o usuário se o número é primo ou não.
 
 */
 

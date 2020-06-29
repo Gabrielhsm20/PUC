@@ -1,3 +1,10 @@
+/*
+
+Faça um programa que leia um ponto cartesiano (dois valores numéricos X e Y) e mostre em
+qual quadrante o ponto se encontra.
+
+*/
+
 #include <stdio.h>
 
 int main(){

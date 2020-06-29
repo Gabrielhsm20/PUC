@@ -1,3 +1,11 @@
+/*
+
+Faça um algoritmo que solicita a altura e peso de uma pessoa, calcule e mostre seu Índice de
+Massa Corporal (IMC).
+
+
+*/
+
 #include <stdio.h>
 
 int main(){

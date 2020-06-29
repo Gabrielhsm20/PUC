@@ -1,7 +1,6 @@
 /*
 
-A distância de Manhattan entre dois pontos é dado pela soma das diferenças absoluta
-entre suas dimensões.
+A distância de Manhattan entre dois pontos é dado pela soma das diferenças absoluta entre suas dimensões.
 
 = | x 1 − x 2 | + | y 1 − y 2 |
 
@@ -11,12 +10,8 @@ Ponto 2) x2=2, y2=5
 
 Neste caso, a distância será = |3-2| + |2-5| = 1 + 3 = 4
 
-Construa um procedimento recebe as coordenadas (x,y) de um ponto P e um valor n. O
-procedimento deverá calcular e retornar por referência a soma das distâncias do ponto P
-para outros n pontos a serem gerados aleatoriamente.
-Construa também uma função main que solicita ao usuário o ponto inicial e o valor de n,
-faz a chamada do procedimento passando os parâmetros, e depois mostra a soma das
-distâncias.
+Construa um procedimento recebe as coordenadas (x,y) de um ponto P e um valor n. O procedimento deverá calcular e retornar por referência a soma das distâncias do ponto P para outros n pontos a serem gerados aleatoriamente.
+Construa também uma função main que solicita ao usuário o ponto inicial e o valor de n, faz a chamada do procedimento passando os parâmetros, e depois mostra a soma das distâncias.
 
 */
 

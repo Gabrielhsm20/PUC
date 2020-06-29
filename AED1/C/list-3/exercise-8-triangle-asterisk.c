@@ -1,3 +1,15 @@
+/*
+
+Faça um algoritmo que imprima um triangulo alinhado a direta, com n linhas, sendo n um
+número inteiro informado pelo usuário. No exemplo a seguir n = 5
+*
+**
+***
+****
+*****
+
+*/
+
 #include <stdio.h>
 
 int main(){

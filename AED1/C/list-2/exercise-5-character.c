@@ -1,3 +1,13 @@
+/*
+
+Crie um programa que leia um caracter (tipo char) e mostre se:
+- É uma letra do alfabeto maiúscula
+- É uma letra do alfabeto minúscula
+- É um número inteiro entre 0 e 9.
+- Caracter diferente das opções anteriores.
+
+*/
+
 #include <stdio.h>
 
 // Biblioteca para os comandos: isdigit, islower e isupper

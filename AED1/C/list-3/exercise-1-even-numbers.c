@@ -1,3 +1,10 @@
+/*
+
+Construa um algoritmo que mostre os números impares de 100 a 110. Utilize estrutura de
+repetição com teste no início (while)
+
+*/
+
 #include <stdio.h>
 
 int main(){

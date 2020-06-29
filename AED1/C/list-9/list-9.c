@@ -1,3 +1,28 @@
+/*
+
+1. Escreva uma função recursiva que recebe um vetor como parâmetro e um valor k. Caso o valor k exista no vetor, a função deverá retornar a sua posição, senão deverá retornar -1.
+    Dado um vetor de inteiros A, apresente algoritmos recursivos para calcular
+
+2. O elemento máximo do vetor.
+
+3. O elemento mínimo do vetor
+
+4. A soma dos elementos do vetor.
+
+5. O produto dos elementos do vetor.
+
+6. A média dos elementos do vetor.
+
+7. Construa um algoritmo que leia duas sequencias de caracteres (string) e verifique se elas são idênticas.
+
+8. Faça um algoritmo que leia três nomes os imprima em ordem alfabética.
+
+9. Construa um algoritmo que leia uma palavra (vetor de caracteres) e verifique recursivamente se a palavra é um palíndromo.
+
+10. Implemente a questão anterior de forma recursiva.
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
