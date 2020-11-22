@@ -1,4 +1,4 @@
-var api_key = '28661b49d2f467ea457463e62d60514b',
+var api_key = '',
     picture_path = 'http://image.tmdb.org/t/p/w185'
 
 var destaques = {
