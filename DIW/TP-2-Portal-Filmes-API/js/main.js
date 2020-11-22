@@ -1,4 +1,4 @@
-var api_key = '',
+var api_key = '28661b49d2f467ea457463e62d60514b',
     picture_path = 'http://image.tmdb.org/t/p/w185'
 
 var destaques = {
@@ -7,7 +7,7 @@ var destaques = {
   results: []
 };
 
-let templateFilme = (el) => {
+var templateFilme = (el) => {
   return `
     <li class="col-sm-12 col-md-6 col-lg-6">
         <div class="card" style="background-image: url('${picture_path + el.poster_path}')">
